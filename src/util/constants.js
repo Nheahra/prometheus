@@ -1,0 +1,3 @@
+export const themeColor = '#23424F'
+
+export const homeP1 = 'Businesses need to add value and obtain a competitive edge in the marketplace. Prometheus IP provides the premiere intellectual property legal services, allowing companies to increase corporate value, obtain marketplace dominance using technological breakthroughs, increase brand recognition, and expand company operations. We collaborate with you to develop strategies to leverage patents, trademarks, copyrights, contracts, and franchise documents to move your business from where it is to where you want to be.'
